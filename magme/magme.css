@@ -1,0 +1,100 @@
+h1
+{
+
+
+    background-color: #b0c4de;
+    color: #191970;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+body {
+  background-color: #add8e6
+}
+a:hover
+{
+color: black;
+background-color: #a2a2d0;
+text-decoration-color:violet;
+}
+a>u
+{
+  font-size: 60px;
+}
+h2
+{
+
+      background-color: #006994;
+      color:#00009c;
+      padding: 20px;
+      text-align: center;
+      font-size: 40px;
+      text-transform: capitalize;
+
+}
+
+ul
+{
+  font-size: 50px;
+}
+.cpy{
+  position:relative;
+  top: 500px;
+  background-color: gray
+  ;
+  text-align: center;
+  display: block;
+
+}
+.img
+{
+  text-align: center;
+  font-size: 1px;
+float:right;
+left: 600px;;
+  position: fixed;
+}
+.courses{
+text-align: center;
+}
+.par1
+{
+  font-size: 25px;
+}
+.par2
+{
+  font-size: 25px;
+}
+.par3
+{
+  font-size: 20px;
+  background-color: #f4bbff;
+}
+.par3:hover
+{
+text-transform: capitalize;
+}
+.cour
+{
+position: relative;
+float: right;
+top: 79px;
+right: 200px;
+}
+.abou
+{
+  position: relative;
+  float: left;
+  padding-left:55px;
+  padding: 100px;
+
+}
+.cont
+{
+  text-align: center;
+  
+  position: relative;
+
+}
